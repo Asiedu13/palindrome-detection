@@ -1,5 +1,5 @@
+backend/node_modules
+frontend/node_modules/
 index.js
 palindrome.html
 style.css
-
-backend/node_modules
