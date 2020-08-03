@@ -1,3 +1,6 @@
 [submodule "palindrome-detection-backend"]
 	path = palindrome-detection-backend
 	url = https://github.com/Asiedu13/palindrome-detection-backend.git
+[submodule "palindrome-detection-frontend"]
+	path = palindrome-detection-frontend
+	url = https://github.com/Asiedu13/palindrome-detection-frontend.git
